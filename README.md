@@ -25,6 +25,6 @@ $ git clone https://github.com/AzraelGarden/wecalc4u/
 # Entre no repositório
 $ cd wecalc4u
 
-# Execute o .exe.
+# Execute o main.exe.
 ```
 
